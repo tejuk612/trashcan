@@ -4,8 +4,8 @@
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
-      "AdsOnOff" : "off",  
-      "DoubleAds_OnOff" : "on",  
+      "AdsOnOff" : "on",  
+      "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "1000", 
       "RecycleAds_Position" : "4",
     
