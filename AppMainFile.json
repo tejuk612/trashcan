@@ -2,7 +2,7 @@
   "data" :  {
       "AD_Priority_Google_Applovin" : "applovin",
     
-      "EveryTimeAdsFail_URL_OnOff" : "on",
+      "EveryTimeAdsFail_URL_OnOff" : "off",
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
