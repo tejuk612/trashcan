@@ -1,10 +1,10 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "applovin",
+      "AD_Priority_Google_Applovin" : "google",
     
       "EveryTimeAdsFail_URL_OnOff" : "off",
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "1000", 
       "RecycleAds_Position" : "4",
