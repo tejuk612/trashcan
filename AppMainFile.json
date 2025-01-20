@@ -11,7 +11,7 @@
     
       "AppVersion_Update" : "2.2",  
     
-      "TransferBox_OnOff" : "on",  
+      "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
           
       "email" : "reach@flawsometechnology.com",  
