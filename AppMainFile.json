@@ -4,14 +4,14 @@
     
       "EveryTimeAdsFail_URL_OnOff" : "off",
     
-      "AdsOnOff" : "on",  
+      "AdsOnOff" : "off",  
       "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "1000", 
       "RecycleAds_Position" : "4",
     
       "AppVersion_Update" : "2.2",  
     
-      "TransferBox_OnOff" : "off",  
+      "TransferBox_OnOff" : "on",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
           
       "email" : "reach@flawsometechnology.com",  
